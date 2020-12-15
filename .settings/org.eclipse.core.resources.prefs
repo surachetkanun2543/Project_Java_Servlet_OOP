@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/app/login/login.jsp=UTF-8
+encoding//WebContent/app/menu/menu.jsp=UTF-8
+encoding//WebContent/app/register/register.jsp=UTF-8
+encoding//WebContent/app/report/report1_2_2.jsp=UTF-8
+encoding//WebContent/app/sell/sell.jsp=UTF-8
+encoding//src/app/Login/ChkLogin.java=UTF-8
+encoding//src/app/cart/Addcart.java=UTF-8
+encoding//src/app/cart/DelCart.java=UTF-8
+encoding//src/app/user/User.java=UTF-8
